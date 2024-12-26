@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "CLR", "CLR.sqlproj", "{E46E49AB-C348-4C24-A376-7138D155DB95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E46E49AB-C348-4C24-A376-7138D155DB95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E46E49AB-C348-4C24-A376-7138D155DB95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E46E49AB-C348-4C24-A376-7138D155DB95}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{E46E49AB-C348-4C24-A376-7138D155DB95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E46E49AB-C348-4C24-A376-7138D155DB95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E46E49AB-C348-4C24-A376-7138D155DB95}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96D6A5A1-FC25-4615-A206-CEB01B9846D8}
+	EndGlobalSection
+EndGlobal
